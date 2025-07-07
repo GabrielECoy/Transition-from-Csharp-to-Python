@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\bin\Debug\netcoreapp3.1\variablesCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\bin\Debug\netcoreapp3.1\variablesCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\bin\Debug\netcoreapp3.1\variablesCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\bin\Debug\netcoreapp3.1\variablesCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\bin\Debug\netcoreapp3.1\variablesCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\bin\Debug\netcoreapp3.1\variablesCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Variables\variablesCS\obj\Debug\netcoreapp3.1\variablesCS.genruntimeconfig.cache

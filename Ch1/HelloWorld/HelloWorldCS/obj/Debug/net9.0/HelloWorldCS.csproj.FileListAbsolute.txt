@@ -1,0 +1,14 @@
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\bin\Debug\net9.0\HelloWorldCS.exe
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\bin\Debug\net9.0\HelloWorldCS.deps.json
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\bin\Debug\net9.0\HelloWorldCS.runtimeconfig.json
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\bin\Debug\net9.0\HelloWorldCS.dll
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\bin\Debug\net9.0\HelloWorldCS.pdb
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.AssemblyInfoInputs.cache
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.AssemblyInfo.cs
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.csproj.CoreCompileInputs.cache
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.dll
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\refint\HelloWorldCS.dll
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.pdb
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\HelloWorldCS.genruntimeconfig.cache
+C:\DiskSpace\Ex_Files_Python_C_Dev\Ch1\HelloWorld\HelloWorldCS\obj\Debug\net9.0\ref\HelloWorldCS.dll

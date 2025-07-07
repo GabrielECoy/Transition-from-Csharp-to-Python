@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\bin\Debug\netcoreapp3.1\ArraysAndListsCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\bin\Debug\netcoreapp3.1\ArraysAndListsCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\bin\Debug\netcoreapp3.1\ArraysAndListsCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\bin\Debug\netcoreapp3.1\ArraysAndListsCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\bin\Debug\netcoreapp3.1\ArraysAndListsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\bin\Debug\netcoreapp3.1\ArraysAndListsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch4\ArraysAndLists\ArraysAndListsCS\obj\Debug\netcoreapp3.1\ArraysAndListsCS.genruntimeconfig.cache

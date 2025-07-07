@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\bin\Debug\netcoreapp3.1\InterfacesCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Interfaces\InterfacesCS\obj\Debug\netcoreapp3.1\InterfacesCS.genruntimeconfig.cache

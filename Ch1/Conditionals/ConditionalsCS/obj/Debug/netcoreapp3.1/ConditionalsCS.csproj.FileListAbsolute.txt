@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\bin\Debug\netcoreapp3.1\ConditionalsCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\bin\Debug\netcoreapp3.1\ConditionalsCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\bin\Debug\netcoreapp3.1\ConditionalsCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\bin\Debug\netcoreapp3.1\ConditionalsCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\bin\Debug\netcoreapp3.1\ConditionalsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\bin\Debug\netcoreapp3.1\ConditionalsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch1\Conditionals\ConditionalsCS\obj\Debug\netcoreapp3.1\ConditionalsCS.genruntimeconfig.cache

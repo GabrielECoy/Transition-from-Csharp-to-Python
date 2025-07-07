@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\bin\Debug\netcoreapp3.1\FunctionsCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\bin\Debug\netcoreapp3.1\FunctionsCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\bin\Debug\netcoreapp3.1\FunctionsCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\bin\Debug\netcoreapp3.1\FunctionsCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\bin\Debug\netcoreapp3.1\FunctionsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\bin\Debug\netcoreapp3.1\FunctionsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch2\FunctionsCS\obj\Debug\netcoreapp3.1\FunctionsCS.genruntimeconfig.cache

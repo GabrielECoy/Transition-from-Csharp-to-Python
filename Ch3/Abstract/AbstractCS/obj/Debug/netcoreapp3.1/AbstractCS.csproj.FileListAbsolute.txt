@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\bin\Debug\netcoreapp3.1\AbstractCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\bin\Debug\netcoreapp3.1\AbstractCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\bin\Debug\netcoreapp3.1\AbstractCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\bin\Debug\netcoreapp3.1\AbstractCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\bin\Debug\netcoreapp3.1\AbstractCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\bin\Debug\netcoreapp3.1\AbstractCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch3\Abstract\AbstractCS\obj\Debug\netcoreapp3.1\AbstractCS.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.exe
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.deps.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.runtimeconfig.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.AssemblyInfo.cs
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.dll
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.pdb
+C:\Users\Joe\Desktop\ExerciseFiles\Ch5\Exceptions\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.genruntimeconfig.cache
