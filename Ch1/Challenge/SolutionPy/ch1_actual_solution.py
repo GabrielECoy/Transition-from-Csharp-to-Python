@@ -1,5 +1,4 @@
-# Python code​​​​​​‌‌​‌‌​‌​​‌‌‌‌​‌‌​​‌​‌‌​‌‌ below
-# Use print("messages...") to debug your solution.
+#Solution of the actual problem describged in the challenge
 
 show_expected_result = False
 show_hints = False
