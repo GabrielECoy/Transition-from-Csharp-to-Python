@@ -5,15 +5,15 @@ Book b1 = new Book("Leo Tolstoy", "War and Peace", 21.95m);
 Book b2 = new Book("Aldous Huxley", "Brave New World", 24.95m);
 
 Console.WriteLine(b1);
-Console.WriteLine(b1.mTitle);
+Console.WriteLine(b1.Title);
 Console.WriteLine(b2);
-Console.WriteLine(b2.mAuthor);
+Console.WriteLine(b2.Author);
 
 class Book(string mTitle, string mAuthor, decimal mPrice)
 {
-    public string mTitle { get; set; } = mTitle;
-    public string mAuthor { get; set; } = mAuthor;
-    public decimal mPrice { get; set; } = mPrice;
+    public string Title { get; set; } = mTitle;
+    public string Author { get; set; } = mAuthor;
+    public decimal Price { get; set; } = mPrice;
 
     public override string ToString() => $"{mTitle} by {mAuthor}, price ${mPrice}";
 }
