@@ -1,0 +1,7 @@
+# Ignore all .cache files in the workspace
+*.cache
+*.AssemblyInfo.cs
+
+# Ignore build output folders
+bin/
+obj/
