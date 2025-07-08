@@ -1,56 +1,25 @@
-﻿using System;
+﻿
+using System;
 
-namespace AbstractCS
+// Top-level statements and file-scoped types (C# 10+ / .NET 6+)
+var c = new Circle(5);
+var s = new Square(10);
+
+Console.WriteLine($"Circle area is {c.CalcArea()}");
+Console.WriteLine($"Square area is {s.CalcArea()}");
+
+// Abstract classes cannot be directly instantiated by the consumer
+abstract class GraphicShape
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Circle c = new Circle(radius: 5);
-            Square s = new Square(sideLength: 10);
+    public abstract double CalcArea();
+}
 
-            Console.WriteLine($"Circle area is {c.CalcArea()}");
-            Console.WriteLine($"Square area is {s.CalcArea()}");
-        }
-    }
+class Circle(int radius) : GraphicShape
+{
+    public override double CalcArea() => Math.PI * Math.Pow(radius, 2);
+}
 
-    // Abstract classes cannot be directly instantiated by the consumer
-    public abstract class GraphicShape
-    {
-        public GraphicShape()
-        {
-        }
-
-        // abstract functions must be overridden by subclasses
-        public abstract double CalcArea();
-    }
-
-    public class Circle : GraphicShape
-    {
-        protected int _radius;
-        public Circle(int radius)
-        {
-            this._radius = radius;
-        }
-
-        public override double CalcArea()
-        {
-            return (Math.PI * (_radius ^ 2));
-        }
-    }
-
-    public class Square : GraphicShape
-    {
-        protected int _sideLength;
-
-        public Square(int sideLength)
-        {
-            this._sideLength = sideLength;
-        }
-
-        public override double CalcArea()
-        {
-            return (_sideLength * _sideLength);
-        }
-    }
+class Square(int sideLength) : GraphicShape
+{
+    public override double CalcArea() => Math.ScaleB(sideLength, 1);
 }
