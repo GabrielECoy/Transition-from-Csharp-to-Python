@@ -29,7 +29,7 @@ namespace InterfacesCS
         public abstract double CalcArea();
     }
 
-    public class Square : GraphicShape, JSONify
+    public class Square : GraphicShape,JSONify
     {
         protected int _sideLength;
 
