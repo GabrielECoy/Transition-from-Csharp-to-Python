@@ -3,5 +3,5 @@
 *.AssemblyInfo.cs
 
 # Ignore build output folders
-bin/
-obj/
+**/bin/
+**/obj/
