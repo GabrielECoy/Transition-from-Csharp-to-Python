@@ -9,8 +9,10 @@ daysdict = {"Sun": "Dim", "Mon": "Lun", "Tue": "Mar",
 
 # iterate over a list
 print("using iter:")
-i = iter(days)
+i = iter(daysdict.items())
 print(next(i))  # Sun
+key1, value1 = next(i)
+print(f"{key1}: {value1}")
 print(next(i))  # Mon
 print(next(i))  # Tue
 
@@ -29,10 +31,14 @@ print("using enumerate:")
 for i, m in enumerate(days, start=1):
     print(i, m)
 
+print("using enumerate over dict:")
+for i, m in enumerate(daysdict.items(), start=1):
+    print(i, m, m[0], m[1])
+
 # use the zip function
 print("using zip:")
 for m in zip(days, daysFr):
-    print(m)
+    print(m, m[0], m[1])
 
 # combine enumerate and zip
 print("using enumerate with zip:")
