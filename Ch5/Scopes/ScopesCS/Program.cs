@@ -20,8 +20,16 @@ namespace ScopesCS
                     Console.WriteLine(line);
                     linecount++;
                 }
+                Console.WriteLine("> ",file.ReadLine());
                 file.Close();
-                Console.WriteLine($"File has {linecount} lines.");
+                try
+                {
+                    Console.WriteLine("> ",file.ReadLine());
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"> Error reading file: {e.Message}");
+                }
             }
         }
     }
